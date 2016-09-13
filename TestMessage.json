@@ -1,0 +1,21 @@
+{
+  "chapter1":
+    {
+      "left": {
+        "body": "a left and stormy night",
+        "choices": {
+          "left": 1,
+          "right": 2
+        },
+        "title": "Prolog"
+      },
+      "right": {
+        "body": "a right and stormy night",
+        "choices": {
+          "left": 1,
+          "right": 2
+        },
+        "title": "Prolog"
+      }
+    }
+}
